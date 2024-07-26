@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiraApi", "PrimeiraApi.csproj", "{80C45AE9-BBB9-4212-BF7E-3E80F451289F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C45AE9-BBB9-4212-BF7E-3E80F451289F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C45AE9-BBB9-4212-BF7E-3E80F451289F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C45AE9-BBB9-4212-BF7E-3E80F451289F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C45AE9-BBB9-4212-BF7E-3E80F451289F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDF36A2E-7AD0-42CA-BB42-E65C9525B700}
+	EndGlobalSection
+EndGlobal

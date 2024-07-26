@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|c:\\users\\rgard\\source\\repos\\primeiraapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|c:\\users\\rgard\\source\\repos\\primeiraapi\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|solutionrelative:service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|c:\\users\\rgard\\source\\repos\\primeiraapi\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|solutionrelative:enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|c:\\users\\rgard\\source\\repos\\primeiraapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C45AE9-BBB9-4212-BF7E-3E80F451289F}|PrimeiraApi.csproj|solutionrelative:enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "Enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:13:49.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\TurnoEnum.cs",
+              "ToolTip": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "Enums\\TurnoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:12:49.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "Service\\FuncionarioService\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeToolTip": "Service\\FuncionarioService\\FuncionarioService.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:48:14.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\rgard\\source\\repos\\PrimeiraApi\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:31:16.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
